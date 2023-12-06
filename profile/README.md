@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="talentara-logo-01.png" />
+  <img align="center" width="400" src="/profile/talentara-logo-01.png" />
 </p>
 <h1 align="center">Talentara</h1>
 <h2 align="center">A Game-Changing Digital Platform that Connects IT Experts with Customers Looking for IT Services.</h2>
