@@ -12,6 +12,6 @@
 | David Revivaldy              | A204BSY233    | Mobile Development | [davidrvii](https://github.com/davidrvii)           |
 | Ananda Kallila               | C204BSX3606   | Cloud Computing    | [Snydexn](https://github.com/Snydexn)               |
 | Muhammad Naufal Arrafi       | C204BSY3594   | Cloud Computing    | [Arrafiiii](https://github.com/Arrafiiii)           |
-| Kimberli Anastasya Panjaitan | M319BSX1815   | Mechine Learning   | [kimmchyy](https://github.com/kimmchyy)             |
-| Agnes Glory Siahaan          | M319BSX0736   | Mechine Learning   | [agnessia23](https://github.com/agnessia23)         |   
-| Rahel Tesa Efesia Sijabat    | M319BSX0734   | Mechine Learning   | [raheltesa](https://github.com/raheltesa)           |   
+| Kimberli Anastasya Panjaitan | M319BSX1815   | Machine Learning   | [kimmchyy](https://github.com/kimmchyy)             |
+| Agnes Glory Siahaan          | M319BSX0736   | Machine Learning   | [agnessia23](https://github.com/agnessia23)         |   
+| Rahel Tesa Efesia Sijabat    | M319BSX0734   | Machine Learning   | [raheltesa](https://github.com/raheltesa)           |   
